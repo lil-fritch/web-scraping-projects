@@ -1,7 +1,7 @@
 # Web Scraping Projects 🕷️
 
 ## 📌 Description  
-A collection of 18+ web scraping and automation projects. The scripts were built for various tasks, including data extraction, processing, and automation of web activities.
+A collection of 20 web scraping and automation projects. The scripts were built for various tasks, including data extraction, processing, and automation of web activities.
 
 Most projects include:  
 - Data parsing from websites via **requests** and **BeautifulSoup**  
