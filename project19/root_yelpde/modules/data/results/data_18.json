@@ -1,0 +1,289 @@
+{
+    "business": {
+        "encid": "rgT1QspkBHKHb7MlliBeuA",
+        "name": "Church Of Sweden",
+        "primaryPhoto": {
+            "encid": "yhOMcmzoFRSHJ6pSjvjQEg",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/yhOMcmzoFRSHJ6pSjvjQEg/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "QeJoFwi5jwxfQOmY9uOVIw",
+                "title": "Skandinavisch",
+                "alias": "scandinavian",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": null,
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "Geschlossen"
+                    ],
+                    "regularHours": [
+                        "Geschlossen"
+                    ],
+                    "regularHoursRaw": [],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "Geschlossen"
+                    ],
+                    "regularHours": [
+                        "Geschlossen"
+                    ],
+                    "regularHoursRaw": [],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3600,
+                            3840
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            5040,
+                            5280
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6480,
+                            6720
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7920,
+                            8160
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHours": [
+                        "12:00 PM - 4:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9360,
+                            9600
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": {
+            "display": "$",
+            "__typename": "PriceRange"
+        },
+        "phoneNumber": {
+            "formatted": "(212) 832-8443",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "rgT1QspkBHKHb7MlliBeuA",
+            "address": {
+                "addressLine1": "5 E 48th St",
+                "addressLine2": "",
+                "addressLine3": "",
+                "city": "Manhattan",
+                "regionCode": "NY",
+                "postalCode": "10017",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 4.5,
+        "reviewCount": 6,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "mYCe3PP63NFN18IFU73poA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "w-eUh5nCbWF01YPxGuTXpA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "SZu7XoF9bBU32owZ4t2Lzw",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "GEmkMHXHTaGYGD-ETGoL1w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "n1OujiMB7Fp3fsjnEIiDdg",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHloT01jbXpvRlJTSEo2cFNqdmpRRWc",
+                            "encid": "yhOMcmzoFRSHJ6pSjvjQEg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDdINlBzVFNfR1o4UTF0OHhkRlpUZ1E",
+                            "encid": "7H6PsTS_GZ8Q1t8xdFZTgQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfElRX19EQmJHdnRicGVnN0JGUXI5Mmc",
+                            "encid": "IQ__DBbGvtbpeg7BFQr92g",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFVvRE03WW96Y2J4Q24zQXBMZS1hWHc",
+                            "encid": "UoDM7YozcbxCn3ApLe-aXw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEZRdFBMSW5tSURxcnFlNUE4UVlMbGc",
+                            "encid": "FQtPLInmIDqrqe5A8QYLlg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHhTOWNuV2daeVg1N1lSbU40WnhvZ2c",
+                            "encid": "xS9cnWgZyX57YRmN4Zxogg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGU1b2xoQy1fd2hFUnRhV3dQajVTelE",
+                            "encid": "e5olhC-_whERtaWwPj5SzQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

@@ -1,0 +1,313 @@
+{
+    "business": {
+        "encid": "lw8gbIHw_6uzIhZesjTimQ",
+        "name": "D'Patrones Deli",
+        "primaryPhoto": {
+            "encid": "i_t0kYkIegjk0dW3825Zaw",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/i_t0kYkIegjk0dW3825Zaw/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "HqXBDz9r2BXZaQBe_R3kgQ",
+                "title": "Deli",
+                "alias": "delis",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "jOOVw4W6TicFOV6KyA96QQ",
+                "title": "Sandwich & Croque",
+                "alias": "sandwiches",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "79-o6RZCMWJgJw4T2QlCOg",
+                "title": "Dominikanisch",
+                "alias": "dominican",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/d-patrones-deli-union-city",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            480,
+                            1380
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            1920,
+                            2820
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3360,
+                            4260
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4800,
+                            5700
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6240,
+                            7200
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7680,
+                            8640
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9120,
+                            0
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": null,
+        "phoneNumber": {
+            "formatted": "(201) 402-4512",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "lw8gbIHw_6uzIhZesjTimQ",
+            "address": {
+                "addressLine1": "1117 Summit Ave",
+                "addressLine2": "",
+                "addressLine3": null,
+                "city": "Union City",
+                "regionCode": "NJ",
+                "postalCode": "07087",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 5,
+        "reviewCount": 1,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "-du-OK_m0-5RBoHY5AgVKA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGlfdDBrWWtJZWdqazBkVzM4MjVaYXc",
+                            "encid": "i_t0kYkIegjk0dW3825Zaw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFpkMkFtaF8tQlFvdWYtSk9CYklWSFE",
+                            "encid": "Zd2Amh_-BQouf-JOBbIVHQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGJ0WFR6cVFjRndVcmxHaHl0WU5XUEE",
+                            "encid": "btXTzqQcFwUrlGhytYNWPA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHlFOGhJaGdPQW1vVGVQS2dWLUl4c1E",
+                            "encid": "yE8hIhgOAmoTePKgV-IxsQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDJzeWQwc2YzT0gxUXQ0VzlQSUZSYmc",
+                            "encid": "2syd0sf3OH1Qt4W9PIFRbg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHVrY01wejNFNVIyTFNBbTc0Q3lJRHc",
+                            "encid": "ukcMpz3E5R2LSAm74CyIDw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGF2amcyUkZha0tiV1RyMG45UGl2LVE",
+                            "encid": "avjg2RFakKbWTr0n9Piv-Q",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEdHZ2FfVHU5NkNGTjgzMjRVN3pfQVE",
+                            "encid": "GGga_Tu96CFN8324U7z_AQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGxIYVA4UThSTDA5cnFsU3hrUDVmNkE",
+                            "encid": "lHaP8Q8RL09rqlSxkP5f6A",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHBxb1M5YkpvTUx0VTdmclRQZlNEQ1E",
+                            "encid": "pqoS9bJoMLtU7frTPfSDCQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

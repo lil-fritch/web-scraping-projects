@@ -1,0 +1,281 @@
+{
+    "business": {
+        "encid": "53p7stvLRveoFIv_vXD-zA",
+        "name": "Los Sazones Latino Corp",
+        "primaryPhoto": {
+            "encid": "4xf4FYfMZ6auppqnF3irHw",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/4xf4FYfMZ6auppqnF3irHw/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "H1zD-nHtGSO6W-PB0jkrtw",
+                "title": "Spanisch",
+                "alias": "spanish",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "79-o6RZCMWJgJw4T2QlCOg",
+                "title": "Dominikanisch",
+                "alias": "dominican",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "5WfAGDDGX7iwTC6cE5yxvQ",
+                "title": "Mexikanisch",
+                "alias": "mexican",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/los-sazones-latino-corp-bronx",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            420,
+                            1320
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            1860,
+                            2760
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3300,
+                            4200
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4740,
+                            5640
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6180,
+                            7140
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7620,
+                            8580
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:00 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9060,
+                            9960
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": null,
+        "phoneNumber": {
+            "formatted": "(718) 928-7239",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "53p7stvLRveoFIv_vXD-zA",
+            "address": {
+                "addressLine1": "1047 Woodycrest Ave",
+                "addressLine2": "",
+                "addressLine3": null,
+                "city": "Bronx",
+                "regionCode": "NY",
+                "postalCode": "10452",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 5,
+        "reviewCount": 2,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "A0t3jOCIPePKo6CLQTpTXA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "rDJV3Ho-Ag70WDN6p3BP7A",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDR4ZjRGWWZNWjZhdXBwcW5GM2lySHc",
+                            "encid": "4xf4FYfMZ6auppqnF3irHw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHp2Yk9FeVdnMHZTc3FRZ0xlVzVYOXc",
+                            "encid": "zvbOEyWg0vSsqQgLeW5X9w",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHFxcjNZVlczTkNZQU1Bb1RfTFF0dlE",
+                            "encid": "qqr3YVW3NCYAMAoT_LQtvQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHJ0cEFMd05CLTJHRkNNMUFCTTZiYmc",
+                            "encid": "rtpALwNB-2GFCM1ABM6bbg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEcyTkhaankxcVFYSmszS3NEYnlNZGc",
+                            "encid": "G2NHZjy1qQXJk3KsDbyMdg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

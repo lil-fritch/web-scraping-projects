@@ -1,0 +1,522 @@
+{
+    "business": {
+        "encid": "OemcKUmscOgLzFsdDuuWIw",
+        "name": "Rebeccas",
+        "primaryPhoto": {
+            "encid": "8o9tJ9xkTksE59GNjvBtcw",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/8o9tJ9xkTksE59GNjvBtcw/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "atfGEO5rudh92GJbQ7GRcg",
+                "title": "Franz\u00f6sisch",
+                "alias": "french",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "b7cnMHU5srHJKbyefJ4okA",
+                "title": "New American",
+                "alias": "newamerican",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "B4qenqtKq75iXQxxvsUzSw",
+                "title": "Modern-Europ\u00e4isch",
+                "alias": "modern_european",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": {
+                "url": "http://www.rebeccasgreenwich.com",
+                "__typename": "BusinessWebsite"
+            },
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": null,
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "Geschlossen"
+                    ],
+                    "regularHours": [
+                        "Geschlossen"
+                    ],
+                    "regularHoursRaw": [],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            2130,
+                            2310
+                        ],
+                        [
+                            2490,
+                            2730
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3570,
+                            3750
+                        ],
+                        [
+                            3930,
+                            4170
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 9:30 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            5010,
+                            5190
+                        ],
+                        [
+                            5370,
+                            5610
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 10:30 PM"
+                    ],
+                    "regularHours": [
+                        "11:30 AM - 2:30 PM",
+                        "5:30 PM - 10:30 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6450,
+                            6630
+                        ],
+                        [
+                            6810,
+                            7110
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "5:30 PM - 10:30 PM"
+                    ],
+                    "regularHours": [
+                        "5:30 PM - 10:30 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            8250,
+                            8550
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "Geschlossen"
+                    ],
+                    "regularHours": [
+                        "Geschlossen"
+                    ],
+                    "regularHoursRaw": [],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": {
+            "display": "$$$$",
+            "__typename": "PriceRange"
+        },
+        "phoneNumber": {
+            "formatted": "(203) 532-9270",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "OemcKUmscOgLzFsdDuuWIw",
+            "address": {
+                "addressLine1": "265 Glenville Rd",
+                "addressLine2": "",
+                "addressLine3": "",
+                "city": "Greenwich",
+                "regionCode": "CT",
+                "postalCode": "06831",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 3.7,
+        "reviewCount": 58,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "FHid080B2_DHaMhEBzxy9Q",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "_Fm6-4Q-bZlGSI8p457o4A",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "LtwdZBRde53U5zKVxawEnw",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "VZ2PelcMExx8_mrkTaKpSQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "5bTNSxOdHYkcYXB0iACGXA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "xNwnIW_hhCfXgUwGTEQdvw",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "ahI1qv5bLkXSVyNfVgIooA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "oTfRyLQq0invYT22COPUew",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "qMfsOd6S_JydKJSiUDf_gQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "9WkViuPYun_m9jvuf7dalw",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDhvOXRKOXhrVGtzRTU5R05qdkJ0Y3c",
+                            "encid": "8o9tJ9xkTksE59GNjvBtcw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGJGaFFYeXRBNEVTUjgzOWxKd1dONGc",
+                            "encid": "bFhQXytA4ESR839lJwWN4g",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHdZVURLY1EzT0xPVk9XR1FyclRDaWc",
+                            "encid": "wYUDKcQ3OLOVOWGQrrTCig",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFZYbzZCbGt5bW5CQWxTSjNlTnZfaWc",
+                            "encid": "VXo6BlkymnBAlSJ3eNv_ig",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfF9vN3FpeHRpdXN6V3pjRy1GTXRTakE",
+                            "encid": "_o7qixtiuszWzcG-FMtSjA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEZRaVZLVDhWYWVTR2E0SXIyb1gxV2c",
+                            "encid": "FQiVKT8VaeSGa4Ir2oX1Wg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfE5uQnZVRVRGRWw1ZFNLSGZ6SlRBYnc",
+                            "encid": "NnBvUETFEl5dSKHfzJTAbw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEtlLU1XTklIenRGOTRickx3ejJQQUE",
+                            "encid": "Ke-MWNIHztF94brLwz2PAA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHBuZllYazBxV2taMXZWakxFM3dGR0E",
+                            "encid": "pnfYXk0qWkZ1vVjLE3wFGA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfE1MSTdPU2cxWWY0enpXN2ZiRllPWWc",
+                            "encid": "MLI7OSg1Yf4zzW7fbFYOYg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfF8xbWNReUg0TF9DZUttNmk5LWt2VEE",
+                            "encid": "_1mcQyH4L_CeKm6i9-kvTA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDM4VHcyRzl3NTNUYTVWNlJxQnNkaUE",
+                            "encid": "38Tw2G9w53Ta5V6RqBsdiA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHM3aThLQ1VLUXh5ZXlxejdkMFRkb3c",
+                            "encid": "s7i8KCUKQxyeyqz7d0Tdow",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDJqSWhfMFllTUhKclYwUjBrZGVkcVE",
+                            "encid": "2jIh_0YeMHJrV0R0kdedqQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDRsZXJaaDZWMmU3WEJSN2Y3UWpQQkE",
+                            "encid": "4lerZh6V2e7XBR7f7QjPBA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGZVNnVyMnhJeW1POUVadnVud1FOaHc",
+                            "encid": "fU6ur2xIymO9EZvunwQNhw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGJ6Wk1mWGRIRmw2WEdid1NtLWxBN0E",
+                            "encid": "bzZMfXdHFl6XGbwSm-lA7A",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDRDeldqODFFMGc5bHYwSC1kVC1TMXc",
+                            "encid": "4CzWj81E0g9lv0H-dT-S1w",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEpHVHN1VDRCOW51NUFLeHVtYmNLMnc",
+                            "encid": "JGTsuT4B9nu5AKxumbcK2w",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHhIOXRXWDZfa1dUUVVoZHo0czFBeXc",
+                            "encid": "xH9tWX6_kWTQUhdz4s1Ayw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfDVVVTNQNEMzbHFuRGRsS2Z3cFVkTFE",
+                            "encid": "5UU3P4C3lqnDdlKfwpUdLQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEZMclNua1RXSjFhdEJQUHFTXzdJb3c",
+                            "encid": "FLrSnkTWJ1atBPPqS_7Iow",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFU4NmFYdVo4ZmdwOF9ibkRRX2gteWc",
+                            "encid": "U86aXuZ8fgp8_bnDQ_h-yg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfExDemV1LW1CcC1NYnJzZVJ4T3Y2YkE",
+                            "encid": "LCzeu-mBp-MbrseRxOv6bA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFZSTl9VNl9peWxYbkFpVnFTZk9HeGc",
+                            "encid": "VRN_U6_iylXnAiVqSfOGxg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

@@ -1,0 +1,310 @@
+{
+    "business": {
+        "encid": "fOErStg3FFSfIscsU4kFyw",
+        "name": "Island Taste Cuisine",
+        "primaryPhoto": {
+            "encid": "ZoHh-OCnvmFMSLBpSgsiVg",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/ZoHh-OCnvmFMSLBpSgsiVg/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "r-q0AinqjaqoWVsWzogNfQ",
+                "title": "Karibisch",
+                "alias": "caribbean",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/island-taste-cuisine-bronx",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            360,
+                            1440
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            1800,
+                            2880
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3240,
+                            4320
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4680,
+                            5760
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6120,
+                            7200
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7560,
+                            8640
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "6:00 AM - 12:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9000,
+                            0
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": {
+            "display": "$",
+            "__typename": "PriceRange"
+        },
+        "phoneNumber": {
+            "formatted": "(718) 547-2015",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "fOErStg3FFSfIscsU4kFyw",
+            "address": {
+                "addressLine1": "4643 White Plains Rd",
+                "addressLine2": "",
+                "addressLine3": "",
+                "city": "Bronx",
+                "regionCode": "NY",
+                "postalCode": "10470",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 4.4,
+        "reviewCount": 13,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "gEiEt8ZgWUJ3Mx-9lT-nlQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "dzxzi7uKHfISdJ9CpAs0kQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "5DRX_FJ-Q9oC11exWyoJiQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "5tuPjFzpfDrR9DxCPJNdzA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "Ocyf3h-3AbZeBV3ZL3WK8w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "A5LOYgfLS3v4rK84IiVS1w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "Aj5daLYwB4bOHcCUNp-N_w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "TrC_wrV53DEChQse2woJ3g",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "RPPZS_KwYyjkpVGF-DsT9A",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "eICv8O0RsaSJHnNy-sUggQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFpvSGgtT0Nudm1GTVNMQnBTZ3NpVmc",
+                            "encid": "ZoHh-OCnvmFMSLBpSgsiVg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEpJN3g3RVhEck03OTFUbm5seGlFY0E",
+                            "encid": "JI7x7EXDrM791TnnlxiEcA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfERPNzVYRDVsTDZWTElWTS1yYjRPZWc",
+                            "encid": "DO75XD5lL6VLIVM-rb4Oeg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

@@ -1,0 +1,230 @@
+{
+    "estatesCount": 0,
+    "apartmentsAdvertsPercentage": null,
+    "commercialAdvertsPercentage": null,
+    "housesAdvertsPercentage": null,
+    "landAdvertsPercentage": null,
+    "askId": 679432,
+    "email": "info@mmreality.cz",
+    "brokersCount": 1281,
+    "company": {
+        "isDeveloper": false,
+        "emails": [],
+        "ico": 27487768,
+        "id": 526,
+        "name": "M&M reality",
+        "seoName": "mm-reality",
+        "advertsCount": 8202,
+        "isRk": true,
+        "brokersCount": null,
+        "premisesCount": 135
+    },
+    "description": "20 000 prodan\u00fdch nemovitost\u00ed za rok v hodnot\u011b p\u0159es 20 miliard korun. Garance vysok\u00e9 kvality poskytovan\u00fdch slu\u017eeb d\u00edky odd\u011blen\u00ed Klientsk\u00e9 p\u00e9\u010de. Dal\u0161\u00ed slu\u017eby: v\u00fdkup nemovitost\u00ed za hotov\u00e9, hypot\u00e9ky, poji\u0161t\u011bn\u00ed.",
+    "descriptionAlt": "",
+    "isDescriptionViewAlt": false,
+    "id": 1019,
+    "locality": {
+        "city": "Praha",
+        "citySeoName": "praha",
+        "district": "Praha 1",
+        "districtId": 5001,
+        "districtSeoName": "praha-1",
+        "entityId": 9094905,
+        "entityType": "address",
+        "geoHash": "u2fkbk6jcp",
+        "latitude": 50.0780862672,
+        "longitude": 14.4278400718,
+        "houseNumber": "583",
+        "municipality": null,
+        "municipalityId": 3468,
+        "municipalitySeoName": null,
+        "quarter": "Praha 1",
+        "quarterId": 87,
+        "quarterSeoName": "praha-1",
+        "region": "Hlavn\u00ed m\u011bsto Praha",
+        "regionId": 10,
+        "regionSeoName": "hlavni-mesto-praha",
+        "street": "Krakovsk\u00e1",
+        "streetId": 120248,
+        "streetSeoName": "krakovska",
+        "streetNumber": "9",
+        "ward": "Nov\u00e9 M\u011bsto",
+        "wardId": 14959,
+        "wardSeoName": "nove-mesto",
+        "zip": 11000
+    },
+    "logo": "https://d48-a.sdn.cz/d_48/c_img_H_B/6ISIjs.png",
+    "name": "M&M reality",
+    "openingHours": [
+        {
+            "day": "monday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 20,
+                "minute": 0
+            }
+        },
+        {
+            "day": "tuesday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 20,
+                "minute": 0
+            }
+        },
+        {
+            "day": "wednesday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 20,
+                "minute": 0
+            }
+        },
+        {
+            "day": "thursday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 20,
+                "minute": 0
+            }
+        },
+        {
+            "day": "friday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 20,
+                "minute": 0
+            }
+        },
+        {
+            "day": "saturday",
+            "start": {
+                "hour": 9,
+                "minute": 0
+            },
+            "end": {
+                "hour": 17,
+                "minute": 0
+            }
+        },
+        {
+            "day": "sunday",
+            "start": {
+                "hour": 9,
+                "minute": 0
+            },
+            "end": {
+                "hour": 17,
+                "minute": 0
+            }
+        }
+    ],
+    "partners": [
+        {
+            "askId": 2609164,
+            "logos": [
+                "https://d48-a.sdn.cz/d_48/c_img_G_B/Jp7XBM.png"
+            ],
+            "seoName": "realitni-komora-ceske-republiky-praha-smichov",
+            "title": "Realitn\u00ed komora \u010cesk\u00e9 republiky"
+        }
+    ],
+    "offers": [],
+    "phone": {
+        "phoneType": "TEL",
+        "phone": "+420296399006"
+    },
+    "photo": "https://d48-a.sdn.cz/d_48/c_img_E_C/euQBzB.jpeg",
+    "reviews": [
+        {
+            "createDate": "2024-11-05T16:21:20",
+            "rating": 100,
+            "reviewerName": "Jan Vlk",
+            "text": "",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T14:45:00",
+            "rating": 90,
+            "reviewerName": "Pavel Gruda",
+            "text": "Pan\u00ed mi v severn\u00edch \u010cech\u00e1ch na\u0161la n\u00e1jemn\u00edka. Komunikace byla profesion\u00e1ln\u00ed a v\u011bt\u0161inu administrativn\u00edch v\u011bc\u00ed vy\u0159e\u0161ila za m\u011b. Tak\u00e9 byla ochotn\u00e1 na sch\u016fzky s n\u00e1jemn\u00edky chodit samostatn\u011b a t\u00edm filtrovat kandid\u00e1ty podle specifikac\u00ed, kter\u00e9 jsem si p\u0159edem ur\u010dil.",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T14:16:45",
+            "rating": 100,
+            "reviewerName": "Kate\u0159ina Kr\u016f\u010dkov\u00e1",
+            "text": "V\u0161e bylo skv\u011bl\u00e9.",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T12:51:59",
+            "rating": 100,
+            "reviewerName": "Roman \u010cern\u00fd",
+            "text": "K prodeji sv\u00e9ho bytu jsem si vybral realitn\u00ed kancel\u00e1\u0159 M&M; na doporu\u010den\u00ed, a byla to dobr\u00e1 volba. Pan makl\u00e9\u0159 Josef Hor\u00e1k se projevil jako zdatn\u00fd profesion\u00e1l a dok\u00e1zal prodat m\u016fj byt za relativn\u011b kr\u00e1tkou dobu. Vyu\u017eil jsem slu\u017eeb kancel\u00e1\u0159e v \u010cesk\u00e9 L\u00edp\u011b, Hrn\u010d\u00ed\u0159sk\u00e1 761/75\nRozhodn\u011b mohu doporu\u010dit.",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T11:20:19",
+            "rating": 100,
+            "reviewerName": "Richterdom",
+            "text": "Velmi pozitivn\u00ed zku\u0161enost, v\u0161e prob\u011bhlo podle p\u0159edem domluven\u00e9 komunikace. Pan\u00ed makl\u00e9\u0159ka byla velice n\u00e1pomocn\u00e1.",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T10:15:29",
+            "rating": 100,
+            "reviewerName": "jan pupik",
+            "text": "Pres pana Hroudu jsme prodavali byt. Vse bylo v naprostem poradku a poskytl nam perfektni servis.",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T10:15:17",
+            "rating": 100,
+            "reviewerName": "J O K 83",
+            "text": "",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T10:15:02",
+            "rating": 100,
+            "reviewerName": "Kalasovamisa",
+            "text": "Skv\u011bl\u00e9 slu\u017eby a servis",
+            "reply": null
+        },
+        {
+            "createDate": "2024-11-05T10:07:46",
+            "rating": 100,
+            "reviewerName": "Modro O\u010dko ",
+            "text": "Dobr\u00fd den\nS MMreality jsem byl nadm\u00edru spokojen, konkr\u00e9tn\u011b s makl\u00e9\u0159em P. Pe\u0159inou, kter\u00fd m\u011b vy\u0159e\u0161il jak koupi nov\u00e9 nemovitosti tak prodej st\u00e1vaj\u00edc\u00ed. Obchod prob\u00edhal n\u00e1vazn\u011b a v\u0161e bylo v po\u0159\u00e1dku, o v\u0161em jsem byl informovan\u00fd a poka\u017ed\u00e9 m\u011b poradil i v n\u00e9 \u00fapln\u011b standartn\u00ed hodinu.\nD\u011bkuji a doporu\u010duji",
+            "reply": null
+        },
+        {
+            "createDate": "2024-10-31T18:01:54",
+            "rating": 100,
+            "reviewerName": "Ji\u0159\u00ed Hor\u00e1lek",
+            "text": "Se slu\u017ebami M&M; reality jsem byl spokojen, stejn\u011bn\u011b tak s pan\u00ed makl\u00e9\u0159kou pan\u00ed K\u00f6hlerovou.\nProdej domu prob\u011bhl velmi rychle a bez probl\u00e9m\u016f.",
+            "reply": null
+        }
+    ],
+    "reviewCount": 664,
+    "reviewScore": 2.5,
+    "seoName": "mm-reality",
+    "visibleWww": "https://www.mmreality.cz/",
+    "www": "https://www.mmreality.cz/?utm_source=sreality.cz&utm_medium=ppd&utm_content=(nic)&utm_term=(nic)&utm_campaign=firmy.cz-(nic)"
+}

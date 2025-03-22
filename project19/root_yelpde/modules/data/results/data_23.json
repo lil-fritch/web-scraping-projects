@@ -1,0 +1,273 @@
+{
+    "business": {
+        "encid": "9X58fmJ_sOStLGfM-W8WEw",
+        "name": "Yolanda\u2019s Dominican Food",
+        "primaryPhoto": {
+            "encid": "Umfkj7fo4z7WTbI7b6NnmQ",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/Umfkj7fo4z7WTbI7b6NnmQ/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "H1zD-nHtGSO6W-PB0jkrtw",
+                "title": "Spanisch",
+                "alias": "spanish",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "79-o6RZCMWJgJw4T2QlCOg",
+                "title": "Dominikanisch",
+                "alias": "dominican",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "R9YcqQZGOjsUHpAJpAOnXg",
+                "title": "Brath\u00e4hnchen & Broiler",
+                "alias": "chickenshop",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/yolanda-s-dominican-food-queens",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            480,
+                            1380
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            1920,
+                            2820
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3360,
+                            4260
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4800,
+                            5700
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6240,
+                            7140
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7680,
+                            8580
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 11:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9120,
+                            10020
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": null,
+        "phoneNumber": {
+            "formatted": "(929) 380-4516",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "9X58fmJ_sOStLGfM-W8WEw",
+            "address": {
+                "addressLine1": "47-21 90th St",
+                "addressLine2": "",
+                "addressLine3": null,
+                "city": "Queens",
+                "regionCode": "NY",
+                "postalCode": "11373",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 4.5,
+        "reviewCount": 2,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "qfFeQw9wKEmSxXvyYAIJYg",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "euoQoiGPrE8xvBuECdmlFg",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFVtZmtqN2ZvNHo3V1RiSTdiNk5ubVE",
+                            "encid": "Umfkj7fo4z7WTbI7b6NnmQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFUwRjhmdnpUUnJVMHMtUE5xQWFEbWc",
+                            "encid": "U0F8fvzTRrU0s-PNqAaDmg",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfElPWXFIQUMwNlRIVzc2ZF8xd2hQN2c",
+                            "encid": "IOYqHAC06THW76d_1whP7g",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfFFCM0xFYXRDb2RiZURzV3hUMy1vbmc",
+                            "encid": "QB3LEatCodbeDsWxT3-ong",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

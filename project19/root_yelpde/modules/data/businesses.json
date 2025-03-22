@@ -1,0 +1,710 @@
+[
+    {
+        "searchResultLayoutType": "separator",
+        "type": "sectionLabel",
+        "props": {
+            "text": "Gesponserte Ergebnisse",
+            "showAdDisclosure": true,
+            "bizSiteUrl": "https://biz.yelp.de"
+        }
+    },
+    {
+        "bizId": "pHDoLFJQWpUZjcyPBtveQw",
+        "searchResultBusiness": {
+            "ranking": null,
+            "isAd": true,
+            "renderAdInfo": false,
+            "name": "\u0100ne Bar & Restaurant",
+            "alternateNames": [],
+            "businessUrl": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2F%25C4%2581ne-bar-and-restaurant-new-york&request_id=2127dca562efc620&signature=358dafde566f7795756296072a91e29f7ed039035ca8e01b532c4fd717671265&slot=0",
+            "categories": [
+                {
+                    "title": "Suppe & Eintopf",
+                    "url": "/search?find_desc=Suppe+%26+Eintopf&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Salat",
+                    "url": "/search?find_desc=Salat&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Indisch",
+                    "url": "/search?find_desc=Indisch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "",
+            "rating": 0.0,
+            "reviewCount": 0,
+            "formattedAddress": "",
+            "neighborhoods": [
+                "Midtown West"
+            ],
+            "phone": "",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "bizSiteUrl": "https://biz.yelp.de",
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "\u0101ne-bar-and-restaurant-new-york",
+            "website": {
+                "href": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results_visit_website&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz_redir%3Fcachebuster%3D1731163815%26s%3D36afdc097be9a5975d4323c2dc4c521177c77a29926474963dd201081f6467e3%26src_bizid%3DpHDoLFJQWpUZjcyPBtveQw%26url%3Dhttps%253A%252F%252Fwww.anerestaurant.com%26website_link_type%3Dwebsite&request_id=2127dca562efc620&signature=cbad27b57a1052571d4b1b7be6a247a39d1bc3d7d9b23583c110176375ae773c&slot=0",
+                "rel": "noopener nofollow"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2F%25C4%2581ne-bar-and-restaurant-new-york%23location-and-hours&request_id=2127dca562efc620&signature=d0c2dc2bbc8743e56a4cdf9e70bcdd72331297e4952f9721d87cea03ac157a9e&slot=0",
+                "reviews": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2F%25C4%2581ne-bar-and-restaurant-new-york%23reviews&request_id=2127dca562efc620&signature=a7c72ee1a88f610d3a4840a13993357f15f5df1f4e3ff890ee2a3b52e40be675&slot=0"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/O3qnixKgyBjn73IWWUVHfw/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/O3qnixKgyBjn73IWWUVHfw/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2F%25C4%2581ne-bar-and-restaurant-new-york&request_id=2127dca562efc620&signature=358dafde566f7795756296072a91e29f7ed039035ca8e01b532c4fd717671265&slot=0",
+            "allPhotosHref": "/biz_photos/pHDoLFJQWpUZjcyPBtveQw",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [
+            {
+                "label": {
+                    "text": "Online-Reservierung durchf\u00fchren",
+                    "color": "normal"
+                },
+                "propertyAvailable": false,
+                "icon": {
+                    "name": "18x18_reservation",
+                    "color": "black-regular"
+                }
+            }
+        ],
+        "serviceOfferings": [],
+        "snippet": null,
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Reservierung m\u00f6glich"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Tisch reservieren",
+                    "logData": {},
+                    "href": "/adredir?ad_business_id=pHDoLFJQWpUZjcyPBtveQw&campaign_id=TkO-0r8PZsC6ay6jbEf7Ew&click_origin=search_results_reservation&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Freservations%2F%25C4%2581ne-bar-and-restaurant-new-york&request_id=2127dca562efc620&signature=8d963d738d814a8da0d1bcbe87f76b878911a96834e2ae71fdbb429703352da1&slot=0"
+                },
+                "ctaType": 4,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": "ad_business:below_organic:U4tKtHl3-yGukudDgAPAWQ",
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "adLoggingInfo": {
+            "placement": "vertical_0",
+            "slot": 0,
+            "placementSlot": 0,
+            "opportunityId": "2127dca562efc620",
+            "adCampaignId": "TkO-0r8PZsC6ay6jbEf7Ew",
+            "flow": "search",
+            "isShowcaseAd": false
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "bizId": "XPuCR_UaPliuNQMzU2pNlQ",
+        "searchResultBusiness": {
+            "ranking": null,
+            "isAd": true,
+            "renderAdInfo": false,
+            "name": "Olive Garden Italian Restaurant",
+            "alternateNames": [],
+            "businessUrl": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2Folive-garden-italian-restaurant-new-york-9&request_id=2127dca562efc620&signature=4837f0da284dcbfa501241fc6428565e8539e71ef57944cfe9baff8b5d0c1313&slot=1",
+            "categories": [
+                {
+                    "title": "Italienisch",
+                    "url": "/search?find_desc=Italienisch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "$$",
+            "rating": 2.9,
+            "reviewCount": 908,
+            "formattedAddress": "",
+            "neighborhoods": [
+                "Theater District"
+            ],
+            "phone": "(212) 333-3254",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "bizSiteUrl": "https://biz.yelp.de",
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "olive-garden-italian-restaurant-new-york-9",
+            "website": {
+                "href": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results_visit_website&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz_redir%3Fcachebuster%3D1731163815%26s%3D7fcc86999358cb85152ce3d1476c018dcd94030dde444c91af1284451c772cfa%26src_bizid%3DXPuCR_UaPliuNQMzU2pNlQ%26url%3Dhttps%253A%252F%252Fwww.olivegarden.com%252Flocations%252Fny%252Fnew-york%252Fnyc-times-square%252F1451%253Fcmpid%253Dbr%25253Aog_ag%25253Aie_ch%25253Adryppc_ca%25253AOGQ225AONBAUTest_dt%25253A20241028_sn%25253Ayelp_pl%25253Aadclick_rd%25253A1001%26website_link_type%3Dwebsite&request_id=2127dca562efc620&signature=d842e8125529ed4ca6400e7a394191496059736a23c620119d6b7fa8c2d2e5e5&slot=1",
+                "rel": "noopener nofollow"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2Folive-garden-italian-restaurant-new-york-9%23location-and-hours&request_id=2127dca562efc620&signature=517ca6c438c8d8096189d026f06a83d65ecf752fc160d8b92f0c339ff25f1080&slot=1",
+                "reviews": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2Folive-garden-italian-restaurant-new-york-9%23reviews&request_id=2127dca562efc620&signature=dd5a28e86b197b3be16e424018a21ff331378e1c3bc293127845557dbdbf00a7&slot=1"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/l6RpMbXNdTttOX4Rc3cEKw/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/l6RpMbXNdTttOX4Rc3cEKw/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2Folive-garden-italian-restaurant-new-york-9&request_id=2127dca562efc620&signature=4837f0da284dcbfa501241fc6428565e8539e71ef57944cfe9baff8b5d0c1313&slot=1",
+            "allPhotosHref": "/biz_photos/XPuCR_UaPliuNQMzU2pNlQ",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": {
+            "readMoreText": "mehr",
+            "readMoreUrl": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=read_more&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.de%2Fbiz%2Folive-garden-italian-restaurant-new-york-9%3Fhrid%3D8l8cc7jp6QbWSDlxRc09BQ&request_id=2127dca562efc620&signature=ddb618797f3ed1dfec449f21ee8191d73aca97aabdf644bb7e67ee7f7593ea25&slot=1",
+            "text": "Wir waren sechs Personen und mussten nicht auf den Tisch warten. Hatten einen tollen Tisch mit Aussicht auf den Times Square. Das Essen ist wirklich\u2026",
+            "thumbnail": {
+                "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/d53e550ec367/assets/img/default_avatars/user_30_square.png",
+                "srcset": null
+            },
+            "id": "8l8cc7jp6QbWSDlxRc09BQ",
+            "type": "review"
+        },
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Website besuchen f\u00fcr weitere Infos"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Website ansehen",
+                    "logData": false,
+                    "href": "/adredir?ad_business_id=XPuCR_UaPliuNQMzU2pNlQ&campaign_id=j7-zKrGMMSIP99ah3OZnSQ&click_origin=search_results_visit_website&placement=vertical_0&placement_slot=0&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz_redir%3Fcachebuster%3D1731163815%26s%3D7fcc86999358cb85152ce3d1476c018dcd94030dde444c91af1284451c772cfa%26src_bizid%3DXPuCR_UaPliuNQMzU2pNlQ%26url%3Dhttps%253A%252F%252Fwww.olivegarden.com%252Flocations%252Fny%252Fnew-york%252Fnyc-times-square%252F1451%253Fcmpid%253Dbr%25253Aog_ag%25253Aie_ch%25253Adryppc_ca%25253AOGQ225AONBAUTest_dt%25253A20241028_sn%25253Ayelp_pl%25253Aadclick_rd%25253A1001%26website_link_type%3Dwebsite&request_id=2127dca562efc620&signature=d842e8125529ed4ca6400e7a394191496059736a23c620119d6b7fa8c2d2e5e5&slot=1"
+                },
+                "ctaType": 11,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": "ad_business:below_organic:nJuvtPDbw0hvvtitkkp_2g",
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "adLoggingInfo": {
+            "placement": "vertical_0",
+            "slot": 1,
+            "placementSlot": 0,
+            "opportunityId": "2127dca562efc620",
+            "adCampaignId": "j7-zKrGMMSIP99ah3OZnSQ",
+            "flow": "search",
+            "isShowcaseAd": false
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "searchResultLayoutType": "separator",
+        "type": "divider",
+        "props": {}
+    },
+    {
+        "searchResultLayoutType": "separator",
+        "type": "sectionLabel",
+        "props": {
+            "text": "All \"Modern European\" results near me in New York, New York - November 2024",
+            "showAdDisclosure": false,
+            "bizSiteUrl": "https://biz.yelp.de"
+        }
+    },
+    {
+        "bizId": "RjXFwonRyu20O2WW9YBKfw",
+        "searchResultBusiness": {
+            "ranking": 1,
+            "isAd": false,
+            "renderAdInfo": false,
+            "name": "\u00c7ka Ka Q\u00ebllu - Manhattan",
+            "alternateNames": [],
+            "businessUrl": "/biz/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2?osq=Restaurants",
+            "categories": [
+                {
+                    "title": "Modern-Europ\u00e4isch",
+                    "url": "/search?find_desc=Modern-Europ%C3%A4isch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Mediterran",
+                    "url": "/search?find_desc=Mediterran&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Weinbar",
+                    "url": "/search?find_desc=Weinbar&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "",
+            "rating": 4.6,
+            "reviewCount": 201,
+            "formattedAddress": "",
+            "neighborhoods": [
+                "Midtown East"
+            ],
+            "phone": "(212) 213-2082",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "\u00e7ka-ka-q\u00ebllu-manhattan-new-york-2",
+            "website": {
+                "href": "https://ckakaqellue.com",
+                "rel": "noopener nofollow"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/biz/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2?osq=Restaurants#location-and-hours",
+                "reviews": "/biz/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2?osq=Restaurants#reviews"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/Yz5RNHpsYj0nyGlGd0Wu9w/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/Yz5RNHpsYj0nyGlGd0Wu9w/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/biz/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2?osq=Restaurants",
+            "allPhotosHref": "/biz_photos/RjXFwonRyu20O2WW9YBKfw",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": {
+            "readMoreText": "mehr",
+            "readMoreUrl": "/biz/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2?hrid=d9kKhykA_2Xv2ene2-G7SA&osq=Restaurants",
+            "text": "Best albanian food i ever had in my life! Amazing atmosphere, friendly and professional service!",
+            "thumbnail": null,
+            "id": "",
+            "type": "review"
+        },
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Reservierung m\u00f6glich"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Tisch reservieren",
+                    "logData": {},
+                    "href": "/reservations/%C3%A7ka-ka-q%C3%ABllu-manhattan-new-york-2"
+                },
+                "ctaType": 4,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": 1,
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "bizId": "66T7rXIZvcVg7XicY6QObg",
+        "searchResultBusiness": {
+            "ranking": 2,
+            "isAd": false,
+            "renderAdInfo": false,
+            "name": "Oscar\u2019s Place",
+            "alternateNames": [],
+            "businessUrl": "/biz/oscars-place-new-york-2?osq=Restaurants",
+            "categories": [
+                {
+                    "title": "Modern-Europ\u00e4isch",
+                    "url": "/search?find_desc=Modern-Europ%C3%A4isch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Fr\u00fchst\u00fcck & Brunch",
+                    "url": "/search?find_desc=Fr%C3%BChst%C3%BCck+%26+Brunch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Britisch",
+                    "url": "/search?find_desc=Britisch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "$$",
+            "rating": 4.4,
+            "reviewCount": 269,
+            "formattedAddress": "",
+            "neighborhoods": [
+                "West Village"
+            ],
+            "phone": "(212) 741-6479",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "oscars-place-new-york-2",
+            "website": {
+                "href": "https://oscarsplacewestvillage.com",
+                "rel": "noopener nofollow"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/biz/oscars-place-new-york-2?osq=Restaurants#location-and-hours",
+                "reviews": "/biz/oscars-place-new-york-2?osq=Restaurants#reviews"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/fU2fjpKUgm7MgnyodDIjjQ/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/fU2fjpKUgm7MgnyodDIjjQ/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/biz/oscars-place-new-york-2?osq=Restaurants",
+            "allPhotosHref": "/biz_photos/66T7rXIZvcVg7XicY6QObg",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": null,
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Bietet Abholung und Lieferung an"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Bestellung starten",
+                    "logData": {},
+                    "href": "/biz/66T7rXIZvcVg7XicY6QObg?show_platform_modal=True"
+                },
+                "ctaType": 0,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": 2,
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "bizId": "adVj40JtqlP9ZS64ZY0SsQ",
+        "searchResultBusiness": {
+            "ranking": 3,
+            "isAd": false,
+            "renderAdInfo": false,
+            "name": "Mishmish Cafe",
+            "alternateNames": [],
+            "businessUrl": "/biz/mishmish-cafe-montclair?osq=Restaurants",
+            "categories": [
+                {
+                    "title": "Mediterran",
+                    "url": "/search?find_desc=Mediterran&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Modern-Europ\u00e4isch",
+                    "url": "/search?find_desc=Modern-Europ%C3%A4isch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Sandwich & Croque",
+                    "url": "/search?find_desc=Sandwich+%26+Croque&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "$$",
+            "rating": 4.4,
+            "reviewCount": 451,
+            "formattedAddress": "",
+            "neighborhoods": [],
+            "phone": "(973) 842-4086",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "mishmish-cafe-montclair",
+            "website": {
+                "href": "http://mishmishcafe.com",
+                "rel": "noopener"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/biz/mishmish-cafe-montclair?osq=Restaurants#location-and-hours",
+                "reviews": "/biz/mishmish-cafe-montclair?osq=Restaurants#reviews"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/F-AFWBMg2haY5FZ1dfYIAA/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/F-AFWBMg2haY5FZ1dfYIAA/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/biz/mishmish-cafe-montclair?osq=Restaurants",
+            "allPhotosHref": "/biz_photos/adVj40JtqlP9ZS64ZY0SsQ",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": null,
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Reservierung m\u00f6glich"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Tisch reservieren",
+                    "logData": {},
+                    "href": "/reservations/mishmish-cafe-montclair"
+                },
+                "ctaType": 4,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": 3,
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "bizId": "eaV_aUOFJPsG7wRbzr6M9Q",
+        "searchResultBusiness": {
+            "ranking": 4,
+            "isAd": false,
+            "renderAdInfo": false,
+            "name": "Hudson Hall",
+            "alternateNames": [],
+            "businessUrl": "/biz/hudson-hall-jersey-city?osq=Restaurants",
+            "categories": [
+                {
+                    "title": "Bier Bar",
+                    "url": "/search?find_desc=Bier+Bar&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "R\u00e4ucherei",
+                    "url": "/search?find_desc=R%C3%A4ucherei&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Modern-Europ\u00e4isch",
+                    "url": "/search?find_desc=Modern-Europ%C3%A4isch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "$$",
+            "rating": 3.8,
+            "reviewCount": 338,
+            "formattedAddress": "",
+            "neighborhoods": [],
+            "phone": "(201) 659-6565",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "hudson-hall-jersey-city",
+            "website": {
+                "href": "https://www.hudsonhalljc.com",
+                "rel": "noopener"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/biz/hudson-hall-jersey-city?osq=Restaurants#location-and-hours",
+                "reviews": "/biz/hudson-hall-jersey-city?osq=Restaurants#reviews"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/p1N9JQPTHhP_L1M41-titg/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/p1N9JQPTHhP_L1M41-titg/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/biz/hudson-hall-jersey-city?osq=Restaurants",
+            "allPhotosHref": "/biz_photos/eaV_aUOFJPsG7wRbzr6M9Q",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": null,
+        "searchActions": [
+            {
+                "content": {
+                    "text": {
+                        "text": "Bietet Abholung und Lieferung an"
+                    },
+                    "subText": {
+                        "text": null
+                    }
+                },
+                "buttonProps": {
+                    "text": "Bestellung starten",
+                    "logData": {},
+                    "href": "/biz/eaV_aUOFJPsG7wRbzr6M9Q?show_platform_modal=True"
+                },
+                "ctaType": 0,
+                "isOfferCampaign": false
+            }
+        ],
+        "markerKey": 4,
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    },
+    {
+        "bizId": "Sz2_SDk8ttk1FT6UHqUtrA",
+        "searchResultBusiness": {
+            "ranking": 5,
+            "isAd": false,
+            "renderAdInfo": false,
+            "name": "Abigails Restaurant",
+            "alternateNames": [],
+            "businessUrl": "/biz/abigails-restaurant-linden-3?osq=Restaurants",
+            "categories": [
+                {
+                    "title": "Modern-Europ\u00e4isch",
+                    "url": "/search?find_desc=Modern-Europ%C3%A4isch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                },
+                {
+                    "title": "Amerikanisch",
+                    "url": "/search?find_desc=Amerikanisch&find_loc=New+York%2C+NY+10115%2C+Vereinigte+Staaten"
+                }
+            ],
+            "priceRange": "$$",
+            "rating": 4.2,
+            "reviewCount": 389,
+            "formattedAddress": "",
+            "neighborhoods": [],
+            "phone": "(908) 523-0777",
+            "serviceArea": null,
+            "parentBusiness": null,
+            "servicePricing": null,
+            "serviceOfferings": [],
+            "businessAttributes": {},
+            "alias": "abigails-restaurant-linden-3",
+            "website": {
+                "href": "https://abigailsnjrestaurant.com",
+                "rel": "noopener nofollow"
+            },
+            "businessSectionUrls": {
+                "open_hours": "/biz/abigails-restaurant-linden-3?osq=Restaurants#location-and-hours",
+                "reviews": "/biz/abigails-restaurant-linden-3?osq=Restaurants#reviews"
+            }
+        },
+        "scrollablePhotos": {
+            "isScrollable": true,
+            "photoList": [
+                {
+                    "src": "https://s3-media0.fl.yelpcdn.com/bphoto/RVyJQqe4MYjjqG8HZpHtfg/348s.jpg",
+                    "srcset": "https://s3-media0.fl.yelpcdn.com/bphoto/RVyJQqe4MYjjqG8HZpHtfg/1000s.jpg 2.87x"
+                }
+            ],
+            "photoHref": "/biz/abigails-restaurant-linden-3?osq=Restaurants",
+            "allPhotosHref": "/biz_photos/Sz2_SDk8ttk1FT6UHqUtrA",
+            "isResponsive": true
+        },
+        "childrenBusinessInfo": null,
+        "searchResultBusinessPortfolioProjects": null,
+        "searchResultBusinessHighlights": null,
+        "tags": [],
+        "serviceOfferings": [],
+        "snippet": null,
+        "searchActions": [],
+        "markerKey": 5,
+        "searchResultLayoutType": "iaResult",
+        "verifiedLicenseLayout": "BadgeAndTextBelowBizName",
+        "yelpGuaranteedInfo": {
+            "yelp_guaranteed_status": null,
+            "yg_info_modal_url": "https://www.yelp.com/yelp-guaranteed"
+        },
+        "offerCampaignDetails": null,
+        "openHoursData": {
+            "format": "standard",
+            "open_time": null
+        }
+    }
+]

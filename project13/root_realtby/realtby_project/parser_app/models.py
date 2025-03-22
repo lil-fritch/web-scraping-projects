@@ -1,0 +1,47 @@
+from django.db import models
+
+class Agent(models.Model):
+    agent_id = models.IntegerField(unique=True)
+    agent_uuid = models.CharField(max_length=500, blank=True, null=True)
+    user_uuid = models.CharField(max_length=500, blank=True, null=True)
+    user_id = models.IntegerField(blank=True, null=True)
+    first_name = models.CharField(max_length=500, blank=True, null=True)
+    last_name = models.CharField(max_length=500, blank=True, null=True)
+    avatar_uuid = models.CharField(max_length=500, blank=True, null=True)
+    avatar_name = models.CharField(max_length=500, blank=True, null=True)
+    avatar_ext = models.CharField(max_length=500, blank=True, null=True)
+    position = models.CharField(max_length=500, blank=True, null=True)
+    occupation_id = models.IntegerField(blank=True, null=True)
+    occupation_title = models.CharField(max_length=500, blank=True, null=True)
+    primary_specialization_id = models.IntegerField(blank=True, null=True)
+    primary_specialization_title = models.CharField(max_length=500, blank=True, null=True)
+    specializations = models.CharField(max_length=500, blank=True, null=True)
+    email = models.CharField(max_length=500, blank=True, null=True)
+    phones = models.CharField(max_length=500, blank=True, null=True)
+    work_regions = models.CharField(max_length=500, blank=True, null=True)
+    deleted = models.IntegerField(blank=True, null=True)
+    confirmed = models.IntegerField(blank=True, null=True)
+    updated_at = models.CharField(max_length=500, blank=True, null=True)
+    sorting = models.IntegerField(blank=True, null=True)
+    views_count = models.IntegerField(blank=True, null=True)
+    is_avatar = models.BooleanField(blank=True, null=True)
+    agency_uuid = models.CharField(max_length=500, blank=True, null=True)
+    agency_title = models.CharField(max_length=500, blank=True, null=True)
+    agency_logo_uuid = models.CharField(max_length=500, blank=True, null=True)
+    agency_logo_name = models.CharField(max_length=500, blank=True, null=True)
+    agency_logo_ext = models.CharField(max_length=500, blank=True, null=True)
+    agency_slug = models.CharField(max_length=500, blank=True, null=True)
+    agency_obdn_uuid = models.CharField(max_length=500, blank=True, null=True)
+    agency_obdn_title = models.CharField(max_length=500, blank=True, null=True)
+    rating = models.FloatField(blank=True, null=True)
+    reviews_count = models.IntegerField(blank=True, null=True)
+    promote = models.IntegerField(blank=True, null=True)
+    type_name = models.CharField(max_length=500, blank=True, null=True)
+    
+    json_data = models.JSONField(blank=True, null=True)
+    status = models.CharField(max_length=500, default="New")
+    
+    def __str__(self):
+        return str(self.agent_id)
+    
+    

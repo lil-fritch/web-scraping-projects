@@ -1,0 +1,315 @@
+{
+    "business": {
+        "encid": "dgtT83jyDCfXjEQcErjZDw",
+        "name": "Golden Ring Restaurant",
+        "primaryPhoto": {
+            "encid": "zozRccsOnF_aiAjriSVeSQ",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/zozRccsOnF_aiAjriSVeSQ/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "r-q0AinqjaqoWVsWzogNfQ",
+                "title": "Karibisch",
+                "alias": "caribbean",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": null,
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/golden-ring-restaurant-east-bronx",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            480,
+                            1260
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            1920,
+                            2700
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3360,
+                            4140
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHours": [
+                        "8:00 AM - 9:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4800,
+                            5580
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:30 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:30 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6210,
+                            7080
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:30 AM - 10:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:30 AM - 10:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7650,
+                            8520
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "7:30 AM - 9:00 PM"
+                    ],
+                    "regularHours": [
+                        "7:30 AM - 9:00 PM"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            9090,
+                            9900
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": null,
+        "phoneNumber": {
+            "formatted": "(718) 324-5794",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "dgtT83jyDCfXjEQcErjZDw",
+            "address": {
+                "addressLine1": "4342 White Plains Rd",
+                "addressLine2": "",
+                "addressLine3": "",
+                "city": "Bronx",
+                "regionCode": "NY",
+                "postalCode": "10466",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 3.1,
+        "reviewCount": 7,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "IWbQ0hT4gMCMsad9o38B_w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "rCIda_ZwqEzXyizFzMaxyg",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "xm4Btm41hXpwZ5Sv4tBhOQ",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "kbuNGICj2nWYj0mwTl5ttA",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "nIzxqDjHzSEUbNiYG0o97w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "c0zA9UmIP8sbO1bR2JP7Gg",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                },
+                {
+                    "node": {
+                        "encid": "j2oMdrmyoZwltRDZZp0a1w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHpvelJjY3NPbkZfYWlBanJpU1ZlU1E",
+                            "encid": "zozRccsOnF_aiAjriSVeSQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfHY4cURDTHpXSzJmT01sc05STERINmc",
+                            "encid": "v8qDCLzWK2fOMlsNRLDH6g",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfEFFaVR3WFRGWGF4SXhENHVnaTJPQVE",
+                            "encid": "AEiTwXTFXaxIxD4ugi2OAQ",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfC0xQ3MyWm5KT1FXVWpfTkN5WEdDM1E",
+                            "encid": "-1Cs2ZnJOQWUj_NCyXGC3Q",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGtOUTdzeGRzS2w3cUN1QTZiZGV1VUE",
+                            "encid": "kNQ7sxdsKl7qCuA6bdeuUA",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGFKWXRyaG5YOURiNWdfZDZUT3MyX2c",
+                            "encid": "aJYtrhnX9Db5g_d6TOs2_g",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfE8xd3NSaWN1cmlSMENOdzdxc0VaWXc",
+                            "encid": "O1wsRicuriR0CNw7qsEZYw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}

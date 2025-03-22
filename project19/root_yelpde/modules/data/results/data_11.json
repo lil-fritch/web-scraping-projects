@@ -1,0 +1,247 @@
+{
+    "business": {
+        "encid": "A0c1lnV_V6V6-vBruWfXkg",
+        "name": "Happy Daze Caribbean Juice bar",
+        "primaryPhoto": {
+            "encid": "ikRzI0IVHScDNo_uS_yWWw",
+            "photoUrl": {
+                "url": "https://s3-media0.fl.yelpcdn.com/bphoto/ikRzI0IVHScDNo_uS_yWWw/l.jpg",
+                "__typename": "BusinessPhotoUrl"
+            },
+            "__typename": "BusinessPhoto"
+        },
+        "categories": [
+            {
+                "encid": "XQmmAcmtNqXoOuj47Qnt6g",
+                "title": "Smoothies & Saftbar",
+                "alias": "juicebars",
+                "root": {
+                    "encid": "sa6Hv0hkKYMiTJ8yXgeQuw",
+                    "alias": "food",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "KvEtRdzoJeLTHOLAn-V2Mw",
+                "title": "Acai Bowl",
+                "alias": "acaibowls",
+                "root": {
+                    "encid": "sa6Hv0hkKYMiTJ8yXgeQuw",
+                    "alias": "food",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            },
+            {
+                "encid": "r-q0AinqjaqoWVsWzogNfQ",
+                "title": "Karibisch",
+                "alias": "caribbean",
+                "root": {
+                    "encid": "787jnoKe7bybdgxyBxiCfA",
+                    "alias": "restaurants",
+                    "__typename": "BusinessCategory"
+                },
+                "__typename": "BusinessCategory"
+            }
+        ],
+        "currencyCode": "USD",
+        "popularItems": [],
+        "externalResources": {
+            "menu": null,
+            "website": {
+                "url": "http://happydazecaribbeanjb.com",
+                "__typename": "BusinessWebsite"
+            },
+            "__typename": "ExternalResources"
+        },
+        "yelpMenu": {
+            "url": "https://www.yelp.de/menu/happy-daze-caribbean-juice-bar-new-york",
+            "__typename": "YelpMenu"
+        },
+        "operationHours": {
+            "regularHoursMergedWithSpecialHoursForCurrentWeek": [
+                {
+                    "dayOfWeekShort": "Mon",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            660,
+                            1560
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Tue",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            2100,
+                            3000
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Wed",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            3540,
+                            4440
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Thu",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            4980,
+                            5880
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Fri",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            6420,
+                            7320
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sat",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHours": [
+                        "11:00 AM - 2:00 AM (Folgetag)"
+                    ],
+                    "regularHoursRaw": [
+                        [
+                            7860,
+                            8760
+                        ]
+                    ],
+                    "__typename": "OperationHoursForADayOfWeek"
+                },
+                {
+                    "dayOfWeekShort": "Sun",
+                    "hasSpecialHours": false,
+                    "hours": [
+                        "Geschlossen"
+                    ],
+                    "regularHours": [
+                        "Geschlossen"
+                    ],
+                    "regularHoursRaw": [],
+                    "__typename": "OperationHoursForADayOfWeek"
+                }
+            ],
+            "__typename": "OperationHours"
+        },
+        "priceRange": null,
+        "phoneNumber": {
+            "formatted": "(833) 421-7637",
+            "__typename": "BusinessPhoneNumber"
+        },
+        "location": {
+            "encid": "A0c1lnV_V6V6-vBruWfXkg",
+            "address": {
+                "addressLine1": "2368 Hoffman St",
+                "addressLine2": null,
+                "addressLine3": "",
+                "city": "New York",
+                "regionCode": "NY",
+                "postalCode": "10458",
+                "__typename": "BusinessAddress"
+            },
+            "country": {
+                "code": "US",
+                "__typename": "Country"
+            },
+            "__typename": "BusinessLocation"
+        },
+        "rating": 5,
+        "reviewCount": 1,
+        "chainBizInfo": null,
+        "reviews": {
+            "edges": [
+                {
+                    "node": {
+                        "encid": "obyGgXCz2CFwfYS2q3155w",
+                        "businessVideos": [],
+                        "__typename": "Review"
+                    },
+                    "__typename": "ReviewEdge"
+                }
+            ],
+            "__typename": "ReviewConnection"
+        },
+        "media": {
+            "orderedMediaItems": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGlrUnpJMElWSFNjRE5vX3VTX3lXV3c",
+                            "encid": "ikRzI0IVHScDNo_uS_yWWw",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "MXxCdXNpbmVzc1Bob3RvfGxzajA3X2E2N2c4VXlhM1RMSS1Sbmc",
+                            "encid": "lsj07_a67g8Uya3TLI-Rng",
+                            "__typename": "BusinessPhoto"
+                        },
+                        "__typename": "BusinessMediaItemEdge"
+                    }
+                ],
+                "__typename": "BusinessMediaItemConnection"
+            },
+            "businessOwnerVideo": null,
+            "__typename": "BusinessMedia"
+        },
+        "__typename": "Business"
+    },
+    "__typename": "Query"
+}
